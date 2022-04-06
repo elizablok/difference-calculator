@@ -1,6 +1,7 @@
 gendiff:
 	node bin/gendiff.js $(OPTIONS)
-.PHONY: gendiff
+lint: 
+	npx eslint .
 
-app:
-	node bin/app.js
+install: 
+	npm ci
