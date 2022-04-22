@@ -4,8 +4,10 @@ const getValue = (value) => {
   if (_.isObject(value)) {
     return '[complex value]';
   }
-  return (typeof value === 'object' || typeof value === 'boolean')
-    ? value : `'${value}'`;
+  if (_.isString(value)) {
+    return `'${value}'`;
+  }
+  return value;
 };
 
 const makePlain = (node, ancestry = '') => {
