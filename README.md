@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/elizablok/backend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/elizablok/backend-project-lvl2/actions)
-[![Node CI](https://github.com/elizablok/backend-project-lvl2/actions/workflows/node-ci.yml/badge.svg)](https://github.com/elizablok/backend-project-lvl2/actions/workflows/node-ci.yml)
+[![Node CI](https://github.com/elizablok/backend-project-lvl2/actions/workflows/node-ci/badge.svg)](https://github.com/elizablok/backend-project-lvl2/actions/workflows/node-ci.yml)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/78ad88dafa56eede88a0/maintainability)](https://codeclimate.com/github/elizablok/backend-project-lvl2/maintainability)
 
