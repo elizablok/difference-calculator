@@ -4,8 +4,7 @@ lint:
 	npx eslint .
 
 install: 
-	install-deps
-	npx simple-git-hooks
+	npm ci
 
 test:
 	NODE_OPTIONS=--experimental-vm-modules npx jest
