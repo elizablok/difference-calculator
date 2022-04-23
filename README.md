@@ -29,7 +29,7 @@ For example to receive a report in the 'stylish' format:
 #### Tutorial of getting a *stylish* format report:
 [![asciicast](https://asciinema.org/a/489297.svg)](https://asciinema.org/a/489297)
 
-#### Tutorial of getting a *plain format report:
+#### Tutorial of getting a *plain* format report:
 [![asciicast](https://asciinema.org/a/489299.svg)](https://asciinema.org/a/489299)
 
 #### Tutorial of getting a *json* format report:
