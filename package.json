@@ -1,8 +1,8 @@
 {
-  "name": "@hexlet/code",
+  "name": "difference-calculator",
   "version": "1.0.0",
   "type": "module",
-  "description": "[![Actions Status](https://github.com/elizablok/backend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/elizablok/backend-project-lvl2/actions)",
+  "description": "Difference Calculator",
   "main": "index.js",
   "bin": {
     "gendiff": "bin/gendiff.js"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elizablok/backend-project-lvl2.git"
+    "url": "git+https://github.com/elizablok/difference-calculator.git"
   },
   "author": "eliza blok",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elizablok/backend-project-lvl2/issues"
+    "url": "https://github.com/elizablok/difference-calculator/issues"
   },
-  "homepage": "https://github.com/elizablok/backend-project-lvl2#readme",
+  "homepage": "https://github.com/elizablok/difference-calculator#readme",
   "dependencies": {
     "commander": "^9.1.0",
     "fs": "^0.0.1-security",

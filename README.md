@@ -1,9 +1,9 @@
 ### Maintainability, test coverage statuses and tests:
-[![Tests](https://github.com/elizablok/backend-project-lvl2/actions/workflows/node-ci.yml/badge.svg)](https://github.com/elizablok/backend-project-lvl2/actions/workflows/node-ci.yml)
+[![Tests](https://github.com/elizablok/difference-calculator/actions/workflows/node-ci.yml/badge.svg)](https://github.com/elizablok/difference-calculator/actions/workflows/node-ci.yml)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/78ad88dafa56eede88a0/maintainability)](https://codeclimate.com/github/elizablok/backend-project-lvl2/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/78ad88dafa56eede88a0/maintainability)](https://codeclimate.com/github/elizablok/difference-calculator/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/78ad88dafa56eede88a0/test_coverage)](https://codeclimate.com/github/elizablok/backend-project-lvl2/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/78ad88dafa56eede88a0/test_coverage)](https://codeclimate.com/github/elizablok/difference-calculator/test_coverage)
 
 ### Description:
 
@@ -15,7 +15,7 @@ Th second project from 'Hexlet' presents a programme showing the difference betw
 - checking the programme version.
 
 ### Setup:
-* Clone the repository to your computer: `git@github.com:elizablok/backend-project-lvl2.git` (using SSH)
+* Clone the repository to your computer: `git@github.com:elizablok/difference-calculator.git` (using SSH)
 * Go to the root directory of the project
 * Install dependencies with the `make install` command
 * Install the package with the `npm link` command. You may need sudo roots.
